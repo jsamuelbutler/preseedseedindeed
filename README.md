@@ -14,4 +14,4 @@ early stage founders that can give us unique insights into the ultimate viabilit
 
 Maybe I'm wrong, but I'm still curious.  I must gather the data before I can come to the conclusion that I am wrong.
 
-For now, I will just enjoy the experiment for what it is and now anyone reading gets to enjoy it with me.
+For now, I will just enjoy the experiment for what it is.  Anyone reading can enjoy it with me.
