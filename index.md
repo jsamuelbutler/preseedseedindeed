@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Pre-Seed, Seed, Indeed
+This is to test my hypothesis around data and early stage companies/founders 
 
-You can use the [editor on GitHub](https://github.com/jsamuelbutler/preseedseedindeed/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'll give you the TL;DR version.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I ❤️ Data.  Ever since establishing myself in a career as an algo trader and hedge fund manager I've been enamored
+with unique and novel datasets.  In 2014 I set out to invest in tech startups.  I could not find any comprehensive dataset.
+I used this as the impetus to start a tech company that gathered data from early stage startups and helped investors 
+aggregate data into portfolio level metrics.  This proved commercially unviable and I stopped my efforts in late 2017.
+I won't go into everything I did wrong, but let's just say I learned a lot of important lessons.
 
-### Markdown
+I'm back now, because I can't shake this notion.  I truly believe that there are valuable data points to be extracted from
+early stage founders that can give us unique insights into the ultimate viability of a company from the earliest stages.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Maybe I'm wrong, but I'm still curious.  I must gather the data before I can come to the conclusion that I am wrong.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jsamuelbutler/preseedseedindeed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For now, I will just enjoy the experiment for what it is.  Anyone reading can enjoy it with me.
