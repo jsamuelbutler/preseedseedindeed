@@ -1,4 +1,4 @@
-## Welcome to PreSeedSeedIndeed
+## Welcome to Pre-Seed, Seed, Indeed
 This is to test my hypothesis around data and early stage companies/founders 
 
 I'll give you the TL;DR version.
